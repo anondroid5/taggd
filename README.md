@@ -5,4 +5,4 @@
 http://timseverien.nl/taggd/
 
 #Copyright
-MIT
+The MIT License
