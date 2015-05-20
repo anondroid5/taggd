@@ -2,7 +2,7 @@
 画像にタグを付与することのできるjqueryプラグイン
 
 #Author
-http://timseverien.nl/taggd/
+Fumihiko Akagi 
 
 #Copyright
   
