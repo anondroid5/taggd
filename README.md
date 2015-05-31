@@ -1,4 +1,5 @@
 # taggd
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://opensource.org/licenses/MIT)
 画像にタグを付与することのできるjqueryプラグイン
 
 #Author
